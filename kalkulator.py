@@ -1,7 +1,7 @@
-def tambah(a,b):
-  return a+b
-def perkalian(a,b):
-  return a*b
+def tambah(bil_a,bil_b):
+  return bil_a+bil_b
+def perkalian(bil_a,bil_b):
+  return bil_a*bil_b
 
 print("Pilih operasi :")
 print("1. Penjumlahan")
