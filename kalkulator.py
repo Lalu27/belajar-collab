@@ -1,6 +1,6 @@
 def tambah(bil_a,bil_b):
   return bil_a+bil_b
-def perkalian(bil_a,bil_b):
+def perkalian(angka1,angka2):
   return bil_a*bil_b
 def pengurangan(x,y):
   return x,y
