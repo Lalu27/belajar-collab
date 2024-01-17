@@ -1,5 +1,7 @@
 def tambah(a,b):
   return a+b
+def perkalian(a,b):
+  return a*b
 
 print("Pilih operasi :")
 print("1. Penjumlahan")
