@@ -1,5 +1,5 @@
-def tambah(bil_a,bil_b):
-  return bil_a+bil_b
+def tambah(x,y):
+  return x+y
 def perkalian(bil_a,bil_b):
   return bil_a*bil_b
 def pengurangan(bil_a,bil_b):
@@ -9,7 +9,7 @@ print("Pilih operasi :")
 print("1. Penjumlahan")
 print("2. Pengurangan")
 print("3. Perkalian")
-
+print("4. Pembagian")
 pilihan = input("Masukkan Pilihan (1/2/3) :")
 
 if pilihan in ('1','2','3'):
