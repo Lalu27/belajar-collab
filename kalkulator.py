@@ -11,6 +11,7 @@ print("2. Pengurangan")
 print("3. Perkalian")
 print("4. Pembagian")
 print("5. Sisa bagi")
+print("6. Pangkat")
 pilihan = input("Masukkan Pilihan (1/2/3) :")
 
 if pilihan in ('1','2','3'):
